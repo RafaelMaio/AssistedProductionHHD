@@ -1,0 +1,17 @@
+7-181-550-536;Folha A4;E05-01-04/05
+8-731-500-264;Manípulo;E03-02-06
+8-709-918-202;Conjunto de fixação;E01-01-02/03/04
+8-738-726-533;Saco 325x230;E02-03-01
+8-710-103-045;Anilha de vedação;E01-02-04
+8-731-500-334;Regulador de caudal ECO 13 lts;E03-01-03
+8-738-727-851;Válvula de fecho acessorio excentrico cm;Peça de chamada
+8-738-718-701;Manipulo de agua preto;E02-03-02
+8-738-718-722;Manipulo de gas preto;E02-03-04
+8-709-918-680;Pilha alcalina 1,5V LR20;E01-02-01/02/03/04
+8-709-918-851;Acessório de instalação;Peça de chamada
+8-702-000-294;Manipulo de água skin;E01-03-02/03
+8-702-000-296;Manipulo de gás skin;E01-03-04
+8-709-918-850;Acessório de instalação;Aces - E01-03-04
+7-709-003-556;Acessório Nr.1083;Aces - E02-03-04
+8-738-726-577;Etiqueta;E04-01-01
+8-738-710-491;Mangueira Flexivel;E02-02-03
